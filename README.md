@@ -1,16 +1,16 @@
-## Hi there 👋
+# Arun Cherian
 
-<!--
-**arunmcherian94/arunmcherian94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lead engineer, 10+ years building backend and integration systems for
+multi-tenant enterprise platforms. Now focused on AI engineering:
+retrieval, evaluation, and agents that act on enterprise systems.
 
-Here are some ideas to get you started:
+**Currently building:** a permission-aware knowledge assistant over messy,
+multi-source data, with an evaluation harness from day one.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Previously**
+- Owned the actions framework behind Simpplr's LLM assistant (2024),
+  built on raw function calling before agent frameworks or MCP existed
+- Owned ingestion and permission propagation for a multi-tenant
+  enterprise search platform at 3M+ events/day
+
+[LinkedIn](https://linkedin.com/in/arun-cherian-ba91b6bb)
