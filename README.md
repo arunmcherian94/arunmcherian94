@@ -8,8 +8,8 @@ retrieval, evaluation, and agents that act on enterprise systems.
 multi-source data, with an evaluation harness from day one.
 
 **Previously**
-- Owned the actions framework behind Simpplr's LLM assistant (2024),
-  built on raw function calling before agent frameworks or MCP existed
+- Owned the actions framework behind Simpplr's LLM assistant,
+  built on raw function calling before agent frameworks or MCP was the norm
 - Owned ingestion and permission propagation for a multi-tenant
   enterprise search platform at 3M+ events/day
 
